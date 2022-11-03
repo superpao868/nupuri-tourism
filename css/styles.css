@@ -49,11 +49,13 @@ ul {
 
 .btn {
   display: block;
-  width: 80px;
+  width: 120px;
   background: #043539;
   color: #c6c7c9;
   text-align: center;
-  padding: 8px 0;
+  padding: 10px 0;
+  font-size: 16px;
+  font-weight: bold;
   border-radius: 4px;
   cursor: pointer;
   transition: opacity .4s;
